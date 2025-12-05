@@ -2,7 +2,7 @@
 [![.github/workflows/python-test.yml](https://github.com/jpwsutton/instax_api/actions/workflows/python-test.yml/badge.svg)](https://github.com/jpwsutton/instax_api/actions/workflows/python-test.yml)
 [![Coverage Status](https://img.shields.io/coveralls/jpwsutton/instax_api/master.svg)](https://coveralls.io/github/jpwsutton/instax_api?branch=master)
 
-This is a Python Module to interact and print photos to the Fujifilm Instax SP-2 and SP-3 printers.
+This is a Python Module to interact and print photos to Fujifilm Instax SHARE SP-1, SP-2 and SP-3 printers.
 
 
 ## Install this library
